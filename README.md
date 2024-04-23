@@ -1,4 +1,7 @@
-# Flat1 Network Webapp
+<p align="center">
+    <img src="./assets/logo.jpeg" height="100">
+    <h3 align="center">Flat1 Network Webapp</h3>
+</p>
 
 This forked repository is based on [substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template)
 
